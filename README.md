@@ -32,7 +32,7 @@ To best set up your anticheat configuration and avoid false bans, follow our doc
 
 # Want More?
 
-Discord: **gabjeksuper**
+Discord: **[gabjeksuper](https://discord.gg/ZsMJYKpGDE)**
 
 Want a custom bot tailored to your server, community, or gaming needs? 100% functional, highly optimized, and robust? Send me a private message on Discord (setup + hosting + future changes included).
 
